@@ -1,6 +1,6 @@
 - 👋 Welcome to the @thesidegig
-- 👀 I’m interested in learning about GitHub Actions
-- 🌱 I’m currently learning to use Azure
+- 👀 I’m interested in utilising GitHub Actions in automated deployment of AZURE Services.
+- 
 
 
 
